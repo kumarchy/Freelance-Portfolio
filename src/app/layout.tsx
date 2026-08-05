@@ -3,9 +3,9 @@ import "./globals.css";
 import { BackgroundEffects } from "@/components/layout/BackgroundEffects";
 
 export const metadata: Metadata = {
-  title: "Kilo Dev — Full Stack Developer & AI Automation Specialist",
+  title: "AutomateX | Software & AI Automation Developer",
   description:
-    "Premium freelance full stack developer and AI automation specialist building modern websites, intelligent software, and business automation solutions.",
+    "Building AI-powered software, intelligent automations, and scalable business solutions.",
   keywords: [
     "full stack developer",
     "AI automation",
@@ -16,9 +16,9 @@ export const metadata: Metadata = {
     "freelance developer",
   ],
   openGraph: {
-    title: "Kilo Dev — Full Stack Developer & AI Automation Specialist",
+    title: "AutomateX | Software & AI Automation Developer",
     description:
-      "Premium freelance full stack developer and AI automation specialist building modern websites, intelligent software, and business automation solutions.",
+      "Building AI-powered software, intelligent automations, and scalable business solutions.",
     type: "website",
   },
   robots: {
