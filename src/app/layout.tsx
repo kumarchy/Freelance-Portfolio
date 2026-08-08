@@ -3,7 +3,7 @@ import "./globals.css";
 import { BackgroundEffects } from "@/components/layout/BackgroundEffects";
 
 export const metadata: Metadata = {
-  title: "AutomateX | Software & AI Automation Developer",
+  title: "LamphuX | Software & AI Automation Developer",
   description:
     "Building AI-powered software, intelligent automations, and scalable business solutions.",
   keywords: [
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     "freelance developer",
   ],
   openGraph: {
-    title: "AutomateX | Software & AI Automation Developer",
+    title: "LamphuX | Software & AI Automation Developer",
     description:
       "Building AI-powered software, intelligent automations, and scalable business solutions.",
     type: "website",
