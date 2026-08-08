@@ -5,7 +5,7 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
           <div className="md:col-span-2">
             <span className="text-2xl font-heading font-bold text-text-primary tracking-tighter">
-              AUTOMATE<span className="text-emerald-primary">X</span>
+              LAMPHU<span className="text-emerald-primary">X</span>
             </span>
             <p className="text-text-secondary text-sm mt-4 max-w-xs leading-relaxed">
               Helping businesses automate workflows, build intelligent software, and streamline operations with AI-powered solutions.
@@ -54,7 +54,7 @@ export const Footer = () => {
 
         <div className="border-t border-divider pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-text-muted">
-            &copy; {new Date().getFullYear()} AutomateX. All rights reserved.
+            &copy; {new Date().getFullYear()} LamphuX. All rights reserved.
           </p>
           <p className="text-xs text-text-muted">
             Designed & Built with care

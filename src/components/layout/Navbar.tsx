@@ -36,7 +36,7 @@ export const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <Link href="/" className="text-2xl font-heading font-bold text-text-primary tracking-tighter">
-          AUTOMATE<span className="text-emerald-primary">X</span>
+          LAMPHU<span className="text-emerald-primary">X</span>
         </Link>
 
         {/* Desktop Links */}
