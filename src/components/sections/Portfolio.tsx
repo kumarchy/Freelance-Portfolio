@@ -68,14 +68,14 @@ const projects = [
   },
   {
     id: 6,
-    title: "Client Onboarding Automation",
-    category: "Automation",
+    title: "AI Audiobook Generator",
+    category: "AI",
     description:
-      "Automated onboarding pipeline that triggers contracts, welcome emails, project setup, and Slack notifications on signup.",
-    technologies: ["n8n", "Stripe", "SendGrid", "Notion API"],
+      "Agentic pipeline that detects a book from a title or author, confirms the match with the user, then converts the full text into a listenable audiobook.",
+    technologies: ["Spring AI", "MCP", "Java", "Text-to-Speech"],
     liveUrl: "#",
     githubUrl: "#",
-    image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=800&q=80",
   },
 ];
 

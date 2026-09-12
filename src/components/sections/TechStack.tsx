@@ -13,6 +13,8 @@ import {
   FaRobot,
   FaJava,
   FaGit,
+  FaBrain,
+  FaLeaf,
 } from "react-icons/fa";
 import {
   SiNextdotjs,
@@ -23,7 +25,6 @@ import {
   SiVercel,
   SiSpringboot,
   SiN8N,
-  SiGooglegemini,
   SiRender,
   SiGithubactions,
   SiPostgresql,
@@ -31,8 +32,8 @@ import {
 
 const techStack = [
   { category: "AI & Automation", items: [
-    { name: "OpenAI", icon: <FaRobot /> },
-    { name: "Google Gemini", icon: <SiGooglegemini /> },
+    { name: "AI Models", icon: <FaBrain /> },
+    { name: "Spring AI", icon: <FaLeaf /> },
     { name: "n8n", icon: <SiN8N /> },
     { name: "MCP", icon: <FaRobot /> },
   ]},

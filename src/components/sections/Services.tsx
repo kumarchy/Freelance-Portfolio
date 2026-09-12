@@ -8,7 +8,6 @@ import {
   MessageSquare, 
   Mic, 
   Zap, 
-  Share2, 
   BarChart3, 
   ShieldCheck 
 } from "lucide-react";
@@ -45,10 +44,10 @@ const services = [
     icon: <Zap className="text-emerald-primary" size={24} />,
   },
   {
-    title: "API Integration",
-    description: "Seamlessly connecting your software stack for unified data and operations.",
-    benefits: "Eliminate data silos and manual data entry errors.",
-    icon: <Share2 className="text-emerald-primary" size={24} />,
+    title: "AI Agent Systems",
+    description: "Autonomous AI agents that handle multi-step tasks, decisions, and workflows without constant human input.",
+    benefits: "Reduced operational overhead and round-the-clock task execution.",
+    icon: <Cpu className="text-emerald-primary" size={24} />,
   },
   {
     title: "Website Optimization",

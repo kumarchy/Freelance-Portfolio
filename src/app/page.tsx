@@ -14,6 +14,7 @@ import { TechStack } from "@/components/sections/TechStack";
 import { Faq } from "@/components/sections/Faq";
 import { Contact } from "@/components/sections/Contact";
 import { Footer } from "@/components/layout/Footer";
+import { Chatbot } from "@/components/chatbot/Chatbot";
 
 export default function Home() {
   return (
@@ -32,6 +33,7 @@ export default function Home() {
       <Contact />
       <Footer />
       <BackToTop />
+      <Chatbot />
     </main>
   );
 }
